@@ -1,0 +1,4 @@
+# Entwurfsfassung des Relaunchs — darf nicht indexiert werden und nicht
+# mit tierimmobilien.com um Suchergebnisse konkurrieren.
+User-agent: *
+Disallow: /
