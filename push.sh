@@ -18,7 +18,7 @@ fi
 if ! git remote get-url origin >/dev/null 2>&1; then
   echo
   echo "Noch kein Remote gesetzt. Einmalig ausfuehren:"
-  echo "  git remote add origin https://github.com/qivox1/tierimmobilien-website.git"
+  echo "  git remote add origin https://github.com/qivox1/tierimmobilien.git"
   exit 1
 fi
 
