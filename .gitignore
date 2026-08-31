@@ -4,3 +4,13 @@ Thumbs.db
 node_modules/
 .vscode/
 .idea/
+
+# Zugangsdaten gehoeren nicht ins Repository
+.env
+.env.*
+.netrc
+*.pem
+*.key
+*token*
+*secret*
+credentials*
